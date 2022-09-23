@@ -17,6 +17,3 @@ function rightPlace(string, char, result){
 
 
 }
-rightPlace('Str_ng', 'I',
-
-'Strong');
